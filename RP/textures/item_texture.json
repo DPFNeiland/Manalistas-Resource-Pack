@@ -1,0 +1,12 @@
+{
+	"resource_pack_name": "Pao",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"bridge_potion_pato": {
+			"textures": "textures/items/potionpao"
+		},
+		"bridge_potion_bread": {
+			"textures": "textures/items/potion_pao"
+		}
+	}
+}
