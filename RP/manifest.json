@@ -2,11 +2,11 @@
 	"format_version": 2,
 	"metadata": {
 		"authors": [
-			"Rodirog"
+			"ESPM"
 		],
 		"generated_with": {
 			"bridge": [
-				"2.7.44"
+				"2.7.42"
 			],
 			"dash": [
 				"0.11.7"
@@ -14,14 +14,14 @@
 		}
 	},
 	"header": {
-		"name": "pack.name",
-		"description": "pack.description",
+		"name": "Alice no país das Maravilhas",
+		"description": "Um Addon incrível costumizado com vários NPCs baseados no livro, além de um novo mundo em vários horizontes...",
 		"min_engine_version": [
 			1,
 			21,
 			0
 		],
-		"uuid": "b85432fd-9c83-4835-ba0c-9b36865e2636",
+		"uuid": "7577d782-bbf4-4b2b-aa19-00675de503ff",
 		"version": [
 			1,
 			0,
@@ -31,7 +31,7 @@
 	"modules": [
 		{
 			"type": "resources",
-			"uuid": "653e71f7-4a57-4130-a474-3586be1b297a",
+			"uuid": "e223ebe8-c4d0-4ad0-8cb7-58d84520bb30",
 			"version": [
 				1,
 				0,
